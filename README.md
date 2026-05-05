@@ -2,11 +2,13 @@
 
 A curated collection of **186 Nikon Creative Picture Control recipes** (.NP3 / .NCP files) for Nikon Z-series cameras. These files can be loaded directly into a compatible Nikon camera or via Nikon's NX Studio software to instantly apply a distinct color grade or film simulation in-camera.
 
+Up to date as of May 4, 2026.
+
 ---
 
 ## What Are Picture Control Recipes?
 
-Nikon's Creative Picture Controls let you save custom combinations of tone curve, hue, saturation, sharpness, clarity, and other parameters as a reusable `.NP3` preset. They can be applied straight out of camera to JPEGs, or applied to RAW files directly in NX Studio.
+Nikon's Creative Picture Controls let you save custom combinations of tone curve, hue, saturation, sharpness, clarity, and other parameters as a reusable `.NP3` preset. They can be applied straight out of camera to photos (JPEGs or RAW), or applied to RAW files directly in NX Studio.
 
 ---
 
@@ -77,16 +79,17 @@ An extensive library of analog film stock emulations:
 
 ---
 
-## How to Load Recipes
+## How I Downloaded The Recipes
 
-> Requires an **Expeed 7** camera (Z8, Z9, Z6III, Zf, Z5II, etc.) and a free [Nikon Imaging Cloud](https://imagingcloud.nikon.com/) account.
+> Requires an **Expeed 7** camera and a [Nikon Imaging Cloud](https://imagingcloud.nikon.com/) account.
 
 1. **Connect your camera** to Nikon Imaging Cloud via the camera's network settings menu.
 2. **Browse and save recipes** at [imagingcloud.nikon.com/recipe/release](https://imagingcloud.nikon.com/recipe/release) — add favorites to Saved Recipes, then send up to 9 at a time to your camera.
 3. **Shoot one RAW photo** with each newly loaded Picture Control active.
 4. **In NX Studio**, open each photo and go to **Basic Edit Palettes → Picture Control → [recipe name] → Add to Custom Picture Controls** and save.
+5. Export the custom picture control to a file.
 
-The recipe is now saved as a custom Picture Control and can be applied to any RAW file shot with an Expeed 7 camera.
+As you can see, this quite a manual process. That is why I went through all the profiles so that others may simply download their favorite profile with ease.
 
 ---
 
