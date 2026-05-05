@@ -6,7 +6,7 @@ A curated collection of **186 Nikon Creative Picture Control recipes** (.NP3 / .
 
 ## What Are Picture Control Recipes?
 
-Nikon's Creative Picture Controls let you save custom combinations of tone curve, hue, saturation, sharpness, clarity, and other parameters as a reusable `.NP3` preset. Loading one into your camera means every JPEG (and optionally the picture monitor preview for RAW shooters) is rendered with that specific look, straight out of camera — no post-processing required.
+Nikon's Creative Picture Controls let you save custom combinations of tone curve, hue, saturation, sharpness, clarity, and other parameters as a reusable `.NP3` preset. They can be applied straight out of camera to JPEGs, or applied to RAW files directly in NX Studio.
 
 ---
 
@@ -79,12 +79,14 @@ An extensive library of analog film stock emulations:
 
 ## How to Load Recipes
 
-1. Copy the `.NP3` or `.NCP` file to the root of your camera's SD card (or use Nikon NX Studio to transfer wirelessly).
-2. On the camera, navigate to: **Photo Shooting Menu → Picture Control → Manage Picture Control → Load/Save**.
-3. Select the file from your SD card to load it into one of the available slots.
-4. Apply the Picture Control as you would any other.
+> Requires an **Expeed 7** camera (Z8, Z9, Z6III, Zf, Z5II, etc.) and a free [Nikon Imaging Cloud](https://imagingcloud.nikon.com/) account.
 
-> Compatible with Nikon Z-series cameras that support Creative Picture Controls (Z5, Z5II, Z6, Z6II, Z6III, Z7, Z7II, Z8, Z9, Zf, Zfc, and others).
+1. **Connect your camera** to Nikon Imaging Cloud via the camera's network settings menu.
+2. **Browse and save recipes** at [imagingcloud.nikon.com/recipe/release](https://imagingcloud.nikon.com/recipe/release) — add favorites to Saved Recipes, then send up to 9 at a time to your camera.
+3. **Shoot one RAW photo** with each newly loaded Picture Control active.
+4. **In NX Studio**, open each photo and go to **Basic Edit Palettes → Picture Control → [recipe name] → Add to Custom Picture Controls** and save.
+
+The recipe is now saved as a custom Picture Control and can be applied to any RAW file shot with an Expeed 7 camera.
 
 ---
 
