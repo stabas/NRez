@@ -81,6 +81,8 @@ An extensive library of analog film stock emulations:
 
 ## How I Downloaded The Recipes
 
+### Via Nikon Imaging Cloud
+
 > Requires an **Expeed 7** camera and a [Nikon Imaging Cloud](https://imagingcloud.nikon.com/) account.
 
 1. **Connect your camera** to Nikon Imaging Cloud via the camera's network settings menu.
@@ -90,6 +92,21 @@ An extensive library of analog film stock emulations:
 5. Export the custom picture control to a file.
 
 As you can see, this quite a manual process. That is why I went through all the profiles so that others may simply download their favorite profile with ease.
+
+### Manually via SD Card
+
+1. Download the recipe files (`.NP3` / `.NCP`).
+2. Insert your SD card into a card reader.
+3. Create a `NIKON` folder at the root of the SD card.
+4. Inside `NIKON`, create a `CUSTOMPC` folder.
+5. Copy the `*.NP3` (or `.NCP`) files into `/NIKON/CUSTOMPC/` on the card.
+6. Insert the card into **slot 1** of the camera.
+7. Press the **MENU** button.
+8. Open the **Shooting** menu.
+9. Go to **Manage Picture Control → Load/Save**.
+10. Select **Copy to camera**.
+11. Select the desired profile and confirm.
+12. Load the saved camera profile to apply it.
 
 ---
 
